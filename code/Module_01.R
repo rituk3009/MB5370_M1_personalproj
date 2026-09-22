@@ -159,4 +159,4 @@ install.packages("usethis")
 credentials::git_credential_ask()
 usethis::git_sitrep()
 git config --global core.editor "emacs"
-
+usethis::use_github()
